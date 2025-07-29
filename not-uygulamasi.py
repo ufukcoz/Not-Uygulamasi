@@ -1,20 +1,4 @@
-# Not Uygulaması
 
-# 1- Menu 
-    # 1- Not Gir
-    # 2- Ortalamaları Göster 
-    # 3- Notları Kayıt Et
-    # 4- Çıkış
-
-    # 90-100 -> AA 
-    # 80-89  -> BA 
-    # 75-79  -> BB
-    # 70-74  -> CB
-    # 65-69  -> CC
-    # 60-64  -> DC
-    # 50-59  -> DD
-    # 40-49  -> FD
-    # 0 -39  -> FF
 
 def not_hesapla(satir):
     satir = satir[:-1]
